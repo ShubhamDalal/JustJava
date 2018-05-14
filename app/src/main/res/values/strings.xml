@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee Ordering</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="order">ORDER</string>
+    <string name="minusButton">-</string>
+    <string name="quantityValue">1</string>
+    <string name="plusButton">+</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">Name</string>
+<!--order Summary-->
+    <string name="thankYou">Thank You</string>
+    <string name="total">Total: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="quantity2">Quantity: <xliff:g id="quantity" example="1">%d</xliff:g></string>
+    <string name="addChocolate">Add Chocolate?  <xliff:g id="addChocolate" example="Yes">%s</xliff:g></string>
+    <string name="addCream">Add Whipped Cream? <xliff:g id="addWhippedCream" example="Yes">%s</xliff:g></string>
+    <string name="orderSummaryName">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="moreThan">Quantity can\'t be more than 100</string>
+    <string name="lessThan">Quantity can\'t be zero</string>
+    <string name="askName">Please Enter Your Name</string>
+    <string name="orderFrom">Coffee Order</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

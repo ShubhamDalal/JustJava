@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">कॉफी ऑर्डरिंग</string>
+    <string name="quantity">मात्रा</string>
+    <string name="order">आदेश</string>
+    <string name="minusButton">-</string>
+    <string name="quantityValue">1</string>
+    <string name="plusButton">+</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="name">नाम</string>
+    <string name="thankYou">धन्यवाद</string>
+    <string name="lessThan">मात्रा शून्य नहीं हो सकती है</string>
+    <string name="moreThan">मात्रा 100 से अधिक नहीं हो सकती है</string>
+    <string name="askName">कृपया अपना नाम दर्ज करें</string>
+    <string name="orderFrom">कॉफी ऑर्डर</string>
+    <string name="whippedCream">व्हिप क्रीम</string>
+    <string name="addCream">व्हीप्ड क्रीम जोड़ें? <xliff:g id="addWhippedCream" example="हाँ">%s</xliff:g></string>
+    <string name="addChocolate">चॉकलेट जोड़ें? <xliff:g id="addChocolate" example="हाँ">%s</xliff:g></string>
+    <string name="quantity2">मात्रा: <xliff:g id="quantity" example="1">%d</xliff:g></string>
+    <string name="total">कुल: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="orderSummaryName">नाम: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+</resources>
